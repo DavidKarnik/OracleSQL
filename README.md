@@ -1,4 +1,4 @@
 ## OracleSQL
-Oracle SQL fot University
 
-Few examples of SQL scripts
+- Oracle SQL fot University
+- Few examples of SQL scripts
